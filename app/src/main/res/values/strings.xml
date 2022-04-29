@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CardiO2</string>
+    <string name="path">path</string>
+    <string name="login_or_register">Login or Register</string>
+</resources>
