@@ -31,12 +31,12 @@ Ian Stellema
 -Android Studio (Java)
 -Arduino
 
-##Note
+## Note
 The Pixel 4 XL and other large and new phones are perfect for this app!
 To enable graphing view download GraphView-4.2.1.jar from this Link https://github.com/jjoe64/GraphView/blob/master/public/
 Credit to jjoe64 for all graphing related code
 
-Instructions for installation:
+## Instructions for installation:
 1. Download the jar file.
 2. Copy and paste the jar file into the libs file (project -> sprint1_1 -> app -> libs
 3. Right click the jar file in android studio and select add as library
