@@ -2,11 +2,9 @@
 Your Top Health App!
 
 ## Purpose
-
 CardiO2 is the Healh Fitness Tracker app that you have been waiting for! Affordable and easy to use, it is THE heart rate and blood oxygen level tracker for your needs!
 
 ## Description
-
 CardiO2 is a health fitness tracker app with a login feature that allows you to monitor your heart rate and blood oxygen levels for both health and fitness reasons, all in a minimalistic fashion. 
 Its purpose is to help bring awareness to cardiovascular health by notifying users of crucial health metrics that all adults should keep an eye on, as said metrics can help an individual detect poor habits before they become major health problems.
 
@@ -22,9 +20,7 @@ Ali Turkman
 Jake Dos Santos
 40018271
 
-Roger Mugisho Namukama 
-
-40070820
+Roger Mugisho Namukama 40070820
 
 Ian Stellema
 40066301        
