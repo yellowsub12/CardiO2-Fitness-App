@@ -12,18 +12,18 @@ Its purpose is to help bring awareness to cardiovascular health by notifying use
 ## Team
 
 Talon Saintsbury 
-40031122
+
 
 Ali Turkman
-40111059
+
 
 Jake Dos Santos
-40018271
 
-Roger Mugisho Namukama 40070820
+
+Roger Mugisho Namukama 
 
 Ian Stellema
-40066301        
+   
 
 
 ## Software used
